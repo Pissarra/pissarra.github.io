@@ -435,6 +435,18 @@ button:focus {
 	text-transform: initial;
 }
 
+.home-footer {
+	position: absolute;
+    bottom: 50px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.home-footer a {
+	color: rgb(20, 20, 20);
+	text-decoration: underline;
+}
 /*-------------------------------------------------
 	4. Portfolio section
 -------------------------------------------------*/
