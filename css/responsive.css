@@ -106,6 +106,9 @@
 	.home-social {
 		bottom: 50px;
 	}
+	.home-footer {
+		bottom: 10px;
+	}
 	.home-background, 
 	.portfolioWrapper, 
 	.servicesWrapper, 
