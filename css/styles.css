@@ -423,6 +423,18 @@ button:focus {
 	transform: translateY(-100%);
 }
 
+/*------------------------------------------------
+	3.1 Home Social Buttons
+-------------------------------------------------*/
+.home-social .btn-icon {
+	font-size: 28px;
+	color: rgb(20, 20, 20);
+}
+
+.home-social span {
+	text-transform: initial;
+}
+
 /*-------------------------------------------------
 	4. Portfolio section
 -------------------------------------------------*/
